@@ -14,4 +14,14 @@
 
 <style>
 	/*每个页面公共css */
+	/* 官方UI库 */
+	@import "/common/uni.css";
+	/* 第三方样式库 */
+	@import "/common/animate.min.css";
+	/* 自定义图标库 */
+	@import "/common/icon.css";
+	/* 公共样式库 */
+	@import "/common/common.css";
+	/* UI基础库 */
+	@import "/common/zcm-main.css";
 </style>
